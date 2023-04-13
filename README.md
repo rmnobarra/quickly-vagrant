@@ -8,6 +8,8 @@
 
 1.2 Virtualbox installed (linux)
 
+1.3 vagrant plugin install vagrant-vbguest
+
 2. run (Using Makefile)
 
 ```bash
